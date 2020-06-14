@@ -1,0 +1,272 @@
+{
+  "common": {
+    "close": "Sulje",
+    "terms_of_service": "Käyttöehdot",
+    "all_rights_reserved": "Kaikki oikeudet pidätetään",
+    "network_error": "Verkkoyhteys on katkennut"
+  },
+  "index": {
+    "main_header": "Löydä upea merellinen Helsinki!",
+    "see_all_button": "Näytä kaikki kohteet ja palvelut",
+    "section1_header": "Merellisiä kohteita, elämyksiä ja palveluita",
+    "section1_paragraph": "Löydä Helsingin lähiseudun merellinen ympäristö ja palvelut samasta paikasta.",
+    "section2_header": "Veneilijöiden palvelut kartalla",
+    "section2_paragraph": "Ahti on uudistunut ja olemme lisänneet uusia toiminnallisuuksia.",
+    "section3_header": "Merelliset kahvilat ja ravintolat",
+    "section3_button": "Selaa kaikkia ravintoloita ja kahviloita",
+    "section4_header": "Merelliset kokemukset",
+    "section5_header": "Ehdota uusi palvelu Ahtiin",
+    "section5_paragraph": "Paranna Ahtia täyttämällä palvelusi tiedot.",
+    "section5_link": "Avaa lomake"
+  },
+  "content": {
+    "map": "Kartta",
+    "list": "Lista",
+    "no_items": "Ei hakutuloksia valituille suodattimille."
+  },
+  "external_links": {
+    "services": "Kohteeseen liittyviä palveluja",
+    "ahti:link:satamapaikkacom": "Varaa venepaikka satamapaikka.comin kautta",
+    "ahti:link:jtline": "Selaa aikatauluja JT-linen kotisivuilla",
+    "servicemap": "Katso kohdetta palvelukartalla",
+    "ticket_shop": "Varaa matkalippu"
+  },
+  "dropdown": {
+    "label": "Valikko",
+    "change_language": "Change language to English",
+    "add_location": "Lisää kohde tai palvelu",
+    "add_location_target": "https://docs.google.com/forms/d/e/1FAIpQLSe6xJj1vpjNfinde6Ly3jv_BG7Reev0KGAKH8O7QPsIVn3IUg/viewform?usp=sf_link",
+    "give_feedback": "Anna palautetta",
+    "give_feedback_target": "https://docs.google.com/forms/d/e/1FAIpQLSegIqAsxVscFnk2iPneXahSpV1cnGjXZ2d_98fSSh0ZOsA1JA/viewform?usp=sf_link",
+    "about": "Tietoa Ahti-palvelusta",
+    "boat_page": "Kaupungin veneilysivut",
+    "boat_page_target": "https://www.hel.fi/helsinki/fi/kulttuuri-ja-vapaa-aika/ulkoilu/veneily",
+    "rescue_directions": "Meripelastusohjeet",
+    "rescue_directions_target": "https://www.hel.fi/helsinki/fi/kulttuuri-ja-vapaa-aika/ulkoilu/veneily/lisatietoa-veneilysta/meripelastusohjeet/"
+  },
+  "map": {
+    "show_all_button": "Näytä kaikki",
+    "back_button": "Takaisin",
+    "tag_card": {
+      "locations": "kohdetta",
+      "point_list_header": "Tähän joku suomennos",
+      "point_list_subheader": "Suosittuja kohteita paikassa"
+    },
+    "zoom_in": "Zoomaa sisään",
+    "zoom_out": "Zoomaa ulos",
+    "geolocate": "Näytä sijaintisi"
+  },
+  "footer": {
+    "header": "Merellisiä linkkejä",
+    "link1": {
+      "content": "Saunat",
+      "target": "https://www.hel.fi/helsinki/fi/kulttuuri-ja-vapaa-aika/ulkoilu/lisatietoa-ulkoilusta/saunat/saunat"
+    },
+    "link2": {
+      "content": "Veneily",
+      "target": "https://www.hel.fi/helsinki/fi/kulttuuri-ja-vapaa-aika/ulkoilu/veneily/"
+    },
+    "link3": {
+      "content": "Kalastus",
+      "target": "https://www.hel.fi/helsinki/fi/kulttuuri-ja-vapaa-aika/ulkoilu/kalastus/"
+    },
+    "link4": {
+      "content": "Saaristossa",
+      "target": "https://www.hel.fi/helsinki/fi/kulttuuri-ja-vapaa-aika/ulkoilu/saaristossa/"
+    },
+    "link5": {
+      "content": "Venepaikat",
+      "target": "https://www.hel.fi/helsinki/fi/kulttuuri-ja-vapaa-aika/ulkoilu/veneily/"
+    },
+    "body": "Tämä palvelu on kehityksessä, käytät testiversiota.",
+    "learn_more": "Lue lisää Ahti-palvelusta.",
+    "attribution": "© Helsingin kaupunki 2019 |",
+    "attribution_link": "https://www.hel.fi/helsinki/fi"
+  },
+  "types": {
+    "island": "Saaret",
+    "route": "Yhteydet saariin",
+    "cityboat": "Kaupunkiveneet",
+    "sauna": "Saunat",
+    "rent": "Vuokraveneet",
+    "sup": "Suppilautailu",
+    "experience": "Elämykset",
+    "kayak": "Melonta",
+    "charter": "Ryhmille",
+    "sightseeing": "Kiertoajelut",
+    "learn": "Opetus",
+    "taxi": "Venekyydit",
+    "visitor": "Vierassatamat",
+    "parking": "Lyhytpysäköinti",
+    "station": "Venehuoltoasemat",
+    "myhelsinki": "MyHelsinki Paikat"
+  },
+  "cookie_consent": {
+    "text": "Tämä palvelu on kehitysvaiheessa ja se käyttää evästeitä anonymisoidun käyttäjädatan keräämiseen jatkokehitystä varten.",
+    "button": "Hyväksy"
+  },
+  "menu": {
+    "home": "avaa etusivu",
+    "open": "avaa valikko",
+    "close": "sulje valikko",
+    "open_submenu": "avaa alivalikko",
+    "close_submenu": "sulje alivalikko",
+    "title": {
+      "islands": "Saaret",
+      "travel_to_islands": "Vesibussit, lautat ja venekyydit",
+      "saunas_and_swimming": "Saunat, uinti ja avannot",
+      "restaurants": "Merelliset kahvilat ja ravintolat",
+      "boater_services": "Venelijän palvelut",
+      "rental_services": "Vuokraveneet ja -välineet"
+    },
+    "link": {
+      "islands": {
+        "all_islands": "Kaikki saaret"
+      },
+      "travel_to_islands": {
+        "water_bus_and_ferries": "Vesibussi- ja lauttareitit",
+        "boat_rides_and_taxis": "Venekyydit ja taksit",
+        "sightseeing_and_cruises": "Kiertoajelut ja risteilyt"
+      },
+      "saunas_and_swimming": {
+        "saunas": "Saunat",
+        "swimming": "Uinti",
+        "ice_swimming": "Avannot"
+      },
+      "restaurants": {
+        "restaurants": "Ravintolat",
+        "cafes": "Kahvilat",
+        "beer_and_wine_bars": "Olut- ja viinibaarit"
+      },
+      "boater_services": {
+        "harbor": "Kaikki satamat",
+        "guest_harbor": "Vierasvenesatamat",
+        "maintenance": "Venehuollot",
+        "septic_tank_draining": "Septityhjennyspisteet",
+        "service_station": "Huoltoasemat",
+        "gas_station": "Polttoainepisteet",
+        "slipway": "Vesillelaskuluiskat",
+        "boat_lift": "Suurien alusten nosto"
+      },
+      "rental_services": {
+        "sup": "Suppilaudat",
+        "canoe": "Kanootit",
+        "kayak": "Kajakit",
+        "rowing": "Soutuveneet",
+        "rental_boat": "Vuokraveneet",
+        "city_boat": "Kaupunkiveneet"
+      }
+    }
+  },
+  "card": {
+    "modified_at": "Päivitetty",
+    "source": "Tietolähde",
+    "show_more": "Näytä enemmän",
+    "show_less": "Näytä vähemmän",
+    "island_content": {
+      "services_tab": "Palvelut",
+      "routes_tab": "Kulkuyhteydet",
+      "description_tab": "Esittely",
+      "routes": {
+        "ferries": "Vesibussit ja lautat",
+        "harbors": "Vierasvenesatamat"
+      }
+    },
+    "ferry_content": {
+      "duration": "Matkan kesto",
+      "pricing": "Liput",
+      "adultPricing": "Aikuinen",
+      "childPricing": "lapsi",
+      "startingPort": "Lähtölaituri",
+      "booking": "Aikataulut ja liput"
+    },
+    "harbor_content": {
+      "mooring": "Rantautumistiedot",
+      "mooringInformation": "Venepaikat",
+      "mooringType": "Kiinnitystavat",
+      "depth": "Syvyys",
+      "pricing": "Hinnat ja varaukset",
+      "dayPricing": "Päivävierailu",
+      "overnightPricing": "Yöpyminen",
+      "booking": "Varaa venepaikka",
+      "mooringTypes": {
+        "SLIP": "Jättämä",
+        "STERN_BUOY": "Peräkiinnitys (poiju)",
+        "STERN_POLE": "Peräkiinnitys (paalu)",
+        "QUAYSIDE": "Laiturikiinnitys",
+        "SEA_BUOY": "Poiju"
+      }
+    }
+  },
+  "search": {
+    "search": "Hae",
+    "open": "Avaa kohde",
+    "close": "Sulje haku"
+  },
+  "filter": {
+    "close": "Sulje suodattimet"
+  },
+  "list_view": {
+    "open": "Avaa kohde",
+    "image_alt": "Kuva"
+  },
+  "breadcrumb": {
+    "close": "Sulje selekoitu filtteri"
+  },
+  "boater_services": {
+    "guest_harbors": "Kaikki vierasvenesatamat",
+    "service_stations": "Veneiden huoltoasemat ja venekorjaamot",
+    "boat_launch": "Veneiden vesillelaskupaikat"
+  },
+  "seaside_experiences": {
+    "sightseeing": "Nähtävyydet",
+    "restaurants": "Kaikki Helsingin merelliset ravintolat",
+    "small_boats": "Soutuveneily, suppilautailu, kajakit ja kanootit",
+    "city_boats": "Kaupunkiveneily",
+    "boat_rental": "Vuokraveneet"
+  },
+  "footer": {
+    "boating": "Kaupungin veneilysivut",
+    "boating_url": "https://www.hel.fi/helsinki/fi/kulttuuri-ja-vapaa-aika/ulkoilu/veneily",
+    "sea_rescue": "Meripelastusohjeet",
+    "sea_rescue_url": "https://www.hel.fi/helsinki/fi/kulttuuri-ja-vapaa-aika/ulkoilu/veneily/lisatietoa-veneilysta/meripelastusohjeet/",
+    "feedback": "Anna palautetta",
+    "feedback_url": "https://www.hel.fi/kulttuurin-ja-vapaa-ajan-toimiala/fi/yhteystiedot-ja-palaute/Anna+palautetta/"
+  },
+  "language_select": {
+    "select_language": "Valitse kieli"
+  },
+  "suggestion_form": {
+    "heading": "Ehdota lisättävä palvelu Ahtiin",
+    "name": "Palvelun nimi",
+    "description": "Palvelun kuvaus",
+    "short_description": "Palvelun lyhyt kuvaus",
+    "website": "Palvelun verkkosivu",
+    "street_address": "Palvelun katuosoite",
+    "postal_code": "Palvelun postinumero",
+    "municipality": "Palvelun kunta",
+    "phone": "Palvelun puhelinnumero",
+    "email": "Palvelun sähköpostiosoite",
+    "category": "Palvelun kategoria",
+    "tags": "Lisää palvelulle tageja alla olevasta listasta",
+    "submit": "Lähetä palvelun tiedot",
+    "coordinates": "Valitse kartalta palvelun sijainti",
+    "selected_tags": "Valitut tagit",
+    "no_selected_tags": "Ei yhtäkään valittua tagia",
+    "on_submit": "Ehdotuksesi on vastaanotettu!",
+    "submitting": "Tietoja käsitellään",
+    "errors": {
+      "required": "Tämä kenttä on pakollinen",
+      "email": "Kentän arvo ei ole kelvollinen sähköposti",
+      "translated_field_required": "Suomalainen käännös tälle kentälle on pakollinen",
+      "check_form": "Tietoja ei voitu lähettä. Tarkista syöttämäsi tiedot.",
+      "submission_error": "Tietojen lähettämisessä tapahtui virhe. Yritä uudelleen.",
+      "max_characters": "Tämän kentän pituus tulee olla enintään {{maxCharacters}} merkkiä jokaiselle käännökselle."
+    }
+  },
+  "testing_environment_warning": {
+    "label": "Huomio",
+    "close_button_label": "Sulje huomio",
+    "link_text": "Selaat Ahdin testiversiota. Klikkaa tätä linkkiä jatkaaksesi Ahdin tuotantoversioon."
+  }
+}
